@@ -17,9 +17,11 @@ Find him at:
 - twitter: @bernardoschorr
 - github: bschorr
 
-[Maria Paula Saba](http://www.mariapaulasaba.com/) designer and creative technologist born in Brazil and based in New York. Maria Paula is a graduate and former resident from the NYU/ITP program, a published technology researcher and an evangelist for women in tech. She's passionate about designing experiences for emerging technologies.
+--------
 
-She is currently the Director of Design at Alce App.
+[Maria Paula Saba](http://www.mariapaulasaba.com/) is a designer and creative technologist born in Brazil and based in New York. Maria Paula is a graduate and former resident from the NYU/ITP program, a published technology researcher and an evangelist for women in tech. She's passionate about designing experiences for emerging technologies.
+
+She is currently the Director of Design at Alice App.
 
 Find her at:
 
