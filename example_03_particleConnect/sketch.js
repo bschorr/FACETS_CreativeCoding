@@ -1,3 +1,4 @@
+//the famous array
 var ballList = [];
 
 function setup() {
@@ -12,12 +13,14 @@ function setup() {
 }
 
 function draw() {
+  //this is a trick! It creates that nice faded effect from frame to frame.
   fill(0, 10);
   rect (0, 0, width, height);
+
+  //note that we're starting our for loop at 1, not 0. This happens because particles will draw a line back to the last particle and there's no -1 position in arrays!
   for (var i = 1; i < ballList.length; i++) {
       var prevX = ballList[i-1].x;
       var prevY = ballList[i-1].y;
-      //console.log (px, py);
       ballList[i].draw(prevX, prevY);
   }
 }
