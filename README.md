@@ -19,9 +19,9 @@ Find him at:
 
 --------
 
-[Maria Paula Saba](http://www.mariapaulasaba.com/) is a designer and creative technologist born in Brazil and based in New York. Maria Paula is a graduate and former resident from the NYU/ITP program, a published technology researcher and an evangelist for women in tech. She's passionate about designing experiences for emerging technologies.
+[Maria Paula Saba](http://www.mariapaulasaba.com/) is a designer and creative technologist born in Brazil and based in New York. Maria Paula is a graduate and former resident from the NYU/ITP program, a published technology researcher and an evangelist for women in tech.
 
-She is currently the Director of Design at Alice App.
+She co-founded Jewelbots and is currently the Director of Design at ALICE.
 
 Find her at:
 
